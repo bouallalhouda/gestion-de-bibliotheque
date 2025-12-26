@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "C:/Users/HP/Downloads/jababiblio/javafx-sdk-25.0.1/lib/*.jar"
+    ],
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin"
+}
